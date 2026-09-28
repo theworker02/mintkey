@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/mintkey",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Mint host/key network string helpers for config audits.",
+  "bin": {
+    "mintkey": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/mintkey.git"
+  },
+  "homepage": "https://theworker02.github.io/mintkey/",
+  "keywords": [
+    "mint",
+    "key",
+    "net",
+    "cli",
+    "toolkit"
+  ]
+}
